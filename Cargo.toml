@@ -1,0 +1,8 @@
+[package]
+name = "marketplace_server"
+version = "0.0.11"
+authors = ["Vi+ <vitaliyy@gmail.com>"]
+
+[dependencies]
+nickel = "*"
+hyper = "*"
